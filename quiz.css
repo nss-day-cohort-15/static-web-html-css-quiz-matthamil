@@ -27,7 +27,7 @@ article h1 {
 article img {
   display: block;
   max-width: 300px;
-  max-height: 200px;
+  height: 150px;
   margin-top: 10px;
 }
 
