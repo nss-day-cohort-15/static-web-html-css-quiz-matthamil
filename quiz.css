@@ -7,7 +7,7 @@ article {
 }
 
 article h1 {
-  border: 1px solid lightgray;
+  border: 1px dotted lightgray;
   text-align: center;
 }
 
